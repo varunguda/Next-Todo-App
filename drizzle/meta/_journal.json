@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704481845662,
+      "tag": "0000_amazing_diamondback",
+      "breakpoints": true
+    }
+  ]
+}
